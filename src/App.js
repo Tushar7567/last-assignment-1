@@ -2,7 +2,6 @@
 import './App.css';
 import Nbar from './components/Nbar';
 import Contact from './components/Contact';
-
 import Project from './components/Project';
 import About from './components/About';
 import Home from './components/Home';

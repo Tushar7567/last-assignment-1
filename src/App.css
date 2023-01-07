@@ -267,6 +267,7 @@ p.danger {
 }
 
  .cont-bottom{
+  padding: 0 5rem;
   height: 10rem;
   background-color: rgb(138, 11, 32);
   color: white;
